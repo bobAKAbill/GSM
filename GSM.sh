@@ -6,6 +6,7 @@ sudo add-apt-repository main
 sudo add-apt-repository universe
 sudo add-apt-repository restricted
 sudo add-apt-repository multiverse
+sudo apt install cmake
 sudo apt install git
 sudo apt install python-numpy python-scipy python-scapy
 sudo apt install gnuradio gnuradio-dev git cmake autoconf libtool pkg-config g++ gcc make libc6 \ libc6-dev libcppunit-1.14-0 libcppunit-dev swig doxygen liblog4cpp5v5 liblog4cpp5-dev python-scipy \ gr-osmosdr libosmocore libosmocore-dev
